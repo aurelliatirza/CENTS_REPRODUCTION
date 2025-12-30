@@ -1,0 +1,13 @@
+{
+  "name": "CENTS Reproducibility Artifact",
+  "description": "Reproduced evaluation results of the CENTS paper using the original repository structure",
+  "version": "1.0.0",
+  "environment": {
+    "os": "ubuntu-24.04"
+  },
+  "authors": [
+    {
+      "name": "Tirza Aurellia Wijaya"
+    }
+  ]
+}

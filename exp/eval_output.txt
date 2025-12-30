@@ -1,0 +1,163 @@
+Working on evaluating ------------./CTA---------------
+Model --- ./gpt3.5 ---
+./out/100/
+Micro F1: 0.5445
+
+./out/1000/
+Micro F1: 0.7478
+
+./out/2000/
+Micro F1: 0.7535
+
+./out/350/
+Micro F1: 0.7115
+
+./out/4000/
+Micro F1: 0.7607
+
+./out/500/
+Micro F1: 0.7348
+
+./out/6000/
+Micro F1: 0.7635
+
+./out/8000/
+Micro F1: 0.7637
+
+./out/max/
+Micro F1: 0.7085
+
+Model --- ./gpt4o ---
+./out/100/
+Micro F1: 0.5589
+
+./out/1000/
+Micro F1: 0.7838
+
+./out/2000/
+Micro F1: 0.7996
+
+./out/350/
+Micro F1: 0.7496
+
+./out/4000/
+Micro F1: 0.8001
+
+./out/500/
+Micro F1: 0.7685
+
+./out/6000/
+Micro F1: 0.8029
+
+./out/8000/
+Micro F1: 0.8035
+
+Model --- ./deepseek ---
+./out/2000/
+Micro F1: 0.4964
+
+./out/4000/
+Micro F1: 0.4982
+
+./out/6000/
+Micro F1: 0.5004
+
+./out/8000/
+Micro F1: 0.4983
+
+Model --- ./tabgptv2 ---
+./out/2000/
+Micro F1: 0.5072
+
+./out/4000/
+Micro F1: 0.5141
+
+./out/6000/
+Micro F1: 0.5050
+
+./out/8000/
+Micro F1: 0.5056
+
+Working on evaluating ------------./RE---------------
+Model --- ./gpt3.5 ---
+./out/2000/
+Micro F1: 0.6682
+
+./out/4000/
+Micro F1: 0.6704
+
+./out/6000/
+Micro F1: 0.6816
+
+./out/8000/
+Micro F1: 0.6844
+
+./out/max/
+Micro F1: 0.5762
+
+Model --- ./gpt4o ---
+./out/2000/
+Micro F1: 0.7854
+
+./out/4000/
+Micro F1: 0.7910
+
+./out/6000/
+Micro F1: 0.7910
+
+./out/8000/
+Micro F1: 0.7908
+
+Model --- ./deepseek ---
+./out/2000/
+Micro F1: 0.4823
+
+./out/4000/
+Micro F1: 0.4883
+
+./out/6000/
+Micro F1: 0.4891
+
+./out/8000/
+Micro F1: 0.4832
+
+Model --- ./tabgptv2 ---
+./out/2000/
+Micro F1: 0.5023
+
+./out/4000/
+Micro F1: 0.5042
+
+./out/6000/
+Micro F1: 0.5183
+
+./out/8000/
+Micro F1: 0.5146
+
+Working on evaluating ------------./SA---------------
+Model --- ./gpt3.5 ---
+./out/top10/
+Mean AP: 0.5580
+
+./out/top100/
+Mean AP: 0.5722
+
+./out/top1000/
+Mean AP: 0.5455
+
+./out/top50/
+Mean AP: 0.5587
+
+Model --- ./gpt4o ---
+./out/top10/
+Mean AP: 0.6107
+
+./out/top100/
+Mean AP: 0.5890
+
+./out/top1000/
+Mean AP: 0.5754
+
+./out/top50/
+Mean AP: 0.5938
+
